@@ -1,4 +1,3 @@
-.github/workflows
 name: Bats
 run-name: ${{ github.actor }} is learning Github actions.
 on: 
